@@ -7,3 +7,4 @@
 **gcp-credentials/
 **logs/
 .vscode
+.DS_Store
